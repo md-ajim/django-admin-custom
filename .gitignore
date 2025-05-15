@@ -1,0 +1,17 @@
+
+backend/staticfiles/
+
+# Env files
+
+backend/.env
+backend/.env.production
+
+# Python
+AdminPanel__pycache__/
+*.py[cod]
+
+
+# IDE/editor folders
+.vscode/
+.idea/
+
