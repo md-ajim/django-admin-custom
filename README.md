@@ -217,3 +217,4 @@ Then load the config (`UNFOLD`) in your settings.
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
