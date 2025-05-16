@@ -116,9 +116,11 @@ To further customize the admin interface:
 
 ---
 
-## 📄 License
+🪪 License
+This project is open-source under the MIT License.
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+MIT — free to use for reference and learning.
+
 
 ---
 
