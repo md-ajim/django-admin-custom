@@ -44,7 +44,7 @@ This project demonstrates how to customize the Django Admin interface to create 
 
    ```bash
    git clone https://github.com/md-ajim/django-admin-custom.git
-   cd django-admin-custom
+   cd django-unfold
    ```
 
 2. **Create a Virtual Environment**:
