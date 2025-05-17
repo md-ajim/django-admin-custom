@@ -7,8 +7,8 @@ A modern, professional, and fully customizable Django Admin panel interface powe
 ## 📁 Project Structure Overview
 
 ```
-project_root/
-├── your_app/
+django-unfold/
+├── AdminPanel/
 ├── static/
 │   ├── css/style.css
 │   ├── js/script.js
@@ -19,9 +19,15 @@ project_root/
 │   │   ├── logo-light.PNG
 │   │   └── logo-dark.svg
 │   └── favicons/favicon.svg
+├── settings/
+│   ├── __pycache__/
+│   ├── __init__
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── unfold_callbacks.py
+│   ├── urls.py
+│   ├── wsgi.py
 ├── templates/
-├── unfold_callbacks.py
-├── settings.py
 └── README.md
 ```
 
@@ -213,15 +219,17 @@ Then load the config (`UNFOLD`) in your settings.
 
 ## 🙌 Author
 
-**Ajim Uddin**
+**MD AJIM**
 💼 Full-stack Developer
 🌐 [Portfolio](https://ajim-dev.vercel.app/)
-📧 [ajim@example.com](mailto:ajim@example.com)
+📧 [mdajim2669@gmial.com](mdajim2669@gmial.com)
 
 ---
 
 ## 📜 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+🪪 License This project is open-source under the MIT License.
+
+MIT — free to use for reference and learning.
 
 
