@@ -9,6 +9,8 @@ A modern, professional, and fully customizable Django Admin panel interface powe
 ```
 django-unfold/
 ├── AdminPanel/
+├── media/
+├── mediafiles/
 ├── static/
 │   ├── css/style.css
 │   ├── js/script.js
@@ -19,6 +21,7 @@ django-unfold/
 │   │   ├── logo-light.PNG
 │   │   └── logo-dark.svg
 │   └── favicons/favicon.svg
+├── staticfiles/
 ├── settings/
 │   ├── __pycache__/
 │   ├── __init__
