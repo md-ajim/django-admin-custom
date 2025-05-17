@@ -30,11 +30,17 @@ project_root/
 ## 🚀 Features
 
 ✅ Fully branded admin interface
+
 ✅ Sidebar navigation with grouping & permissions
+
 ✅ Themed login background and layout
+
 ✅ Custom icons, logos, and favicons
+
 ✅ Tabbed model view support
+
 ✅ Support for multi-language flags
+
 ✅ Ready-to-use user management dashboard
 
 ---
